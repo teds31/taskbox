@@ -1,5 +1,7 @@
 Storybook tutorial by creating a simple tasklist with redux in data management. Skipped chromatic integration for visual testing outside of Storybook. 
 
+Deployeod on Netlify: https://dreamy-kepler-8bed17.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
